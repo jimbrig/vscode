@@ -11,7 +11,7 @@
 
 Currently have personalized, custom code snippets for:
 
-- [Common]() - These are programming-language agnostic (comment blocks, headers, etc.) 
+- [Common](snippets/common.json) - These are programming-language agnostic (comment blocks, headers, etc.) 
 - [PowerShell](snippets/PowerShell.json)
 - [R](snippets/R.json)
 - [VBA]()
