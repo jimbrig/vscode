@@ -12,7 +12,7 @@
 Currently have personalized, custom code snippets for:
 
 - [Common](snippets/common.json) - These are programming-language agnostic (comment blocks, headers, etc.) 
-- [PowerShell](snippets/PowerShell.json)
-- [R](snippets/R.json)
-- [VBA]()
-- [PowerQuery (M-Code)]()
+- [PowerShell](snippets/powershell.json)
+- [R](snippets/r.json)
+- [VBA](vba.json)
+- [PowerQuery (M-Code)](powerquery.json)
