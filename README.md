@@ -11,8 +11,8 @@
 
 Currently have personalized, custom code snippets for:
 
-- [PowerShell]()
-- [R]()
-- []
+- [Common]() - These are programming-language agnostic (comment blocks, headers, etc.) 
+- [PowerShell](snippets/PowerShell.json)
+- [R](snippets/R.json)
 - [VBA]()
 - [PowerQuery (M-Code)]()
